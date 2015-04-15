@@ -1,4 +1,5 @@
-# salty-node-ruby
+#node-redis-nginx
+
 A Vagrant VM with NodeJS, Redis, and nginx 
 
 ## Vagrant setup
